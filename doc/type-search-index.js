@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"sistema","l":"Aluno"},{"p":"sistema","l":"Coisa"},{"p":"sistema","l":"ContaCantina"},{"p":"sistema","l":"ContaLaboratorio"},{"p":"sistema","l":"Disciplina"},{"p":"sistema","l":"Saude"}]
